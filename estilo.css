@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("fondo\ de\ formulario.jpg");
+}
+.form-registrar{
+    width: 400px;
+    background: pink;
+    padding: 100px;
+  margin: auto;
+  margin-top: 100px ;
+  border-radius: 4px;
+  font-family: algerian;
+  color:black;
+}
+.form-register h4{
+    font-size: 30px;
+    margin-bottom: 23px;
+}
+.controls{
+width: 100%;
+background:white;
+padding: 15px;
+border-radius:6px ;
+margin-bottom: 18px;
+border: 1px solid yellowgreen;
+font-family:cambria ;
+font-size:20px ;
+}
+
+.form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+.form-register a {
+    color:white;
+    text-decoration:underline;
+}
+
+.form-register a:hover{
+    color: pink;
+    text-decoration:underline ;
+
+}
+.form-register.botons{
+width: 100%;
+background:yellow ;
+border: none;
+padding: 12px;
+color:white;
+margin: 16px 0;
+font-size: 16px;
+}
+
